@@ -3,7 +3,7 @@ def resolver_recoleccion_equipaje(n, maletas):
 	Resuelve el problema de recoleccion de equipaje con costo d^2.
 	
 	Parametros:
-	n (int): Cantidad de maletas (1 < n < 24)
+	n (int): Cantidad de maletas (1 <= n <= 24)
 	maletas (list of tuple): Lista de tuplas (x, y) con las posiciones de cada maleta.
 	
 	Retorna:
